@@ -1,6 +1,5 @@
 package com.myshopify.Vajrointerview.controller;
 
-import java.sql.Timestamp;
 import java.util.Date;
 
 import org.apache.logging.log4j.LogManager;
