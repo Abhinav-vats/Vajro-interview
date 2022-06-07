@@ -18,7 +18,7 @@ Following are the steps to generate deployable jar file
 
 ### URL Endpoint of the application:
 
-URL: https/http://<hostname>/product/all
+URL: https/http://hostname/product/all
 
 Method: GET
 
